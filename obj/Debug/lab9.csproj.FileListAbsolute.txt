@@ -1,0 +1,6 @@
+c:\users\jbute\documents\visual studio 2015\Projects\lab9\lab9\bin\Debug\lab9.exe.config
+C:\Users\jbute\Documents\Visual Studio 2015\Projects\lab9\lab9\bin\Debug\lab9.exe
+C:\Users\jbute\Documents\Visual Studio 2015\Projects\lab9\lab9\bin\Debug\lab9.pdb
+C:\Users\jbute\Documents\Visual Studio 2015\Projects\lab9\lab9\obj\Debug\lab9.csprojResolveAssemblyReference.cache
+C:\Users\jbute\Documents\Visual Studio 2015\Projects\lab9\lab9\obj\Debug\lab9.exe
+C:\Users\jbute\Documents\Visual Studio 2015\Projects\lab9\lab9\obj\Debug\lab9.pdb
